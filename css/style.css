@@ -1,0 +1,30 @@
+.firstrow {
+  margin-top: 50px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+ul, li {
+  list-style:none
+}
+
+.main-row {
+  display: flex;
+  background: #e6e6e6;
+}
+
+span.left-block {
+  width: 35px;
+  background: #d2d2d2;
+  text-align: center;
+}
+
+.inner-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  padding-right: 30px;
+}
+
